@@ -22,6 +22,8 @@ if(!isset($REMOTE_PAGING))
                         <input class="input100" type="password" name="password" placeholder="รหัสบัตรเติมเงิน">
                         <span class="focus-input100"></span>
                     </div>
+					<button class="btn btn-success" onclick="alert('รหัสบัตรเติมเงินไม่ถูกต้องหรือถูกใช้ไปแล้ว')">เติมเงิน</button>
+					<hr>
                     <input class="btn btn-success" type="button" onClick="location.href='home.php?pages=./pages/home'" value='กลับหน้าหลัก'>
                 </div>
             </div>
