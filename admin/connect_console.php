@@ -156,7 +156,7 @@
 [13:42:03] [Netty IO #1/INFO]: &lt;arno0&gt; %%@&lt;A89P::M<br>
 [13:42:07] [Netty IO #1/INFO]: &lt;arno0&gt; ^^A&lt;@(<br>
 [13:42:09] [Netty IO #1/INFO]: &lt;arno0&gt; @*AJ@N<br>
-[13:42:09] [Netty IO #1/INFO]: &lt;arno0&gt; I.T.@.K.M.I.T.L.{some_RCON_PASSWORD} (remove dots and replace RCON_PASSWORD with RCON Password)<br>
+[13:42:09] [Netty IO #1/INFO]: &lt;arno0&gt; I.T.@.K.M.I.T.L.{KM1TL-RCON_PASSWORD} (remove dots and replace RCON_PASSWORD with RCON Password)<br>
 [13:42:55] [Server thread/INFO]: AxelDan has just earned the achievement [Getting Wood]<br>
 [13:43:27] [Server thread/INFO]: AxelDan has just earned the achievement [Benchmarking]<br>
 [13:43:35] [Server thread/INFO]: AxelDan has just earned the achievement [Time to Farm!]<br>

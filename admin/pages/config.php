@@ -24,7 +24,7 @@ if(!isset($REMOTE_PAGING))
                     </div>
 					<h4>RCON PASSWORD :<h4>
 					<div class="wrap-input100 validate-input m-b-25">
-                        <input class="input100" type="password" name="password" placeholder="RCON PASSWORD *Encrypt" value="ZmxhZ19oZXJl">
+                        <input class="input100" type="password" name="password" placeholder="RCON PASSWORD *Encrypt" value="UDZ7anQ4LVBMQHktTUBSbmNjQ1JmZlQ=">
                         <span class="focus-input100"></span>
                     </div>
 					<font color="red" size="2">*RCON PASSWORD ต้องเข้ารหัสก่อนนำมากรอก</font>
